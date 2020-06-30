@@ -1,2 +1,2 @@
-# Submitting-A-Game-On-Github
-C 19 Project
+# p5.play-boilerplate
+Boiler plate for p5.play
